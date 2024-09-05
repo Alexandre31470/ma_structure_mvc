@@ -1,0 +1,12 @@
+body{
+    color:green;
+}
+
+
+header h1{
+    font-size: 50px;  
+    margin-left: 20px;
+}
+.card-img-top{
+    object-fit: contain;
+} 
