@@ -4,4 +4,3 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 
 RewriteRule ^(.*)$ index.php?page=$1
-# ce fihier sert à la réécriture des URLS du site 
